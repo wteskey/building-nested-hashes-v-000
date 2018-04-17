@@ -7,7 +7,7 @@ def second_challenge
       :heroine_friends => {}
       }, 
     :capulet => {
-      #your key/value pairs here!
+      
       }}
 
   
